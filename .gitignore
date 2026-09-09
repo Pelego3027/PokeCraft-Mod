@@ -1,0 +1,50 @@
+# Minecraft Bedrock Add-on
+*.mcaddon
+*.mcpack
+
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporários
+*.tmp
+*.bak
+*.log
+
+# Backups
+backup/
+backups/
+*.backup
+
+# Executáveis e compilados
+*.exe
+*.dll
+*.so
+
+# Arquivos do Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos do Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Minecraft específico
+.minecraft/
+saves/
+screenshots/
+crash-reports/
+
+# Git
+.git/
+.gitignore
