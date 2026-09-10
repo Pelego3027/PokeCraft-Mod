@@ -1,0 +1,24 @@
+{
+  "name": "PokeCraft",
+  "description": "Um mod completo de Pokémon para Minecraft Bedrock",
+  "version": "1.0.0",
+  "author": "Pelego3027",
+  "packType": "addon",
+  "downloadLink": "https://github.com/Pelego3027/PokeCraft-Mod/releases/download/v1.0.0/PokeCraft-v1.0.0.mcaddon",
+  "fileSize": "2.5MB",
+  "minecraftVersion": "1.20.0+",
+  "compatibility": ["Windows", "Mac", "iOS", "Android", "Console"],
+  "features": [
+    "15 Pokémons únicos",
+    "Sistema de captura",
+    "Batalhas PvP",
+    "Evoluções",
+    "20+ Itens",
+    "Sistema de economia"
+  ],
+  "instructions": {
+    "iOS": "Use Realms+ ou Toolbox for Minecraft",
+    "Android": "Baixe e abra direto",
+    "Windows/Mac": "Extraia na pasta de add-ons"
+  }
+}
